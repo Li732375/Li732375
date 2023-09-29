@@ -26,7 +26,7 @@ and industry trends to design a framework for the next-generation communication 
 + Unreal Engine (newer)
 + C# (forget)
 
-
++ shotcut (newer)
 <!--
 **Li732375/Li732375** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
