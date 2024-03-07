@@ -21,10 +21,10 @@ and industry trends to design a framework for the next-generation communication 
 
 ### Tool 
 + Python (about web crawler、machine learning、ai)
-+ **C/C++ (newer, learning)**
++ **C/C++ (newer)**
 + Unity (newer, almost forget)
-+ Unreal Engine (newer)
-+ C# (forget)
++ Unreal Engine (newer, learning)
++ Java, C# (forget)
 
 + shotcut (newer)
 <!--
