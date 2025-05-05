@@ -13,7 +13,7 @@ I graduated from **Pingtong University with a Master's degree in Computer scienc
 
 well, I have **over half a year of work experience**.
 
-In my previous company, I was responsible for understanding technical documents 
+In previous company, I was responsible for understanding technical documents 
 and industry trends to design a framework for the next-generation communication standards. In another side, manager project with AI 。
 
 **In near, I keep making myself project with Python (ML) and Youtube vedios.**
